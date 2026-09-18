@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "repository": "AMWA-TV/bcp-007",
+  "documents": [
+    {
+      "title": "Further Information",
+      "url": "https://specs.amwa.tv/new/bcp-007/latest/Further%20Info/",
+      "text": "Further Information Further Information Further Information - [Work In Progress] AMWA NMOS Transport Mappings Skip to content Further Information This file is here for testing automation. Look at the main NMOS page for more information on NMOS!",
+      "repository": "AMWA-TV/bcp-007"
+    },
+    {
+      "title": "AMWA BCP-007 NMOS Transport Mappings: Overview",
+      "url": "https://specs.amwa.tv/new/bcp-007/latest/Overview/",
+      "text": "AMWA BCP-007 NMOS Transport Mappings: Overview AMWA BCP-007 NMOS Transport Mappings: Overview Introduction Overview - [Work In Progress] AMWA NMOS Transport Mappings Skip to content AMWA BCP-007 NMOS Transport Mappings: Overview (c) AMWA 2023, CC Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) Introduction AMWA IS-04/05 and the other NMOS Specifications were originally mostly used in ST 2110 RTP environments, but have always been capable of extension to other streaming transports. BCP-007 is an extensible series of mappings specifying how to use NMOS for individual transports. BCP-007 is complemented by the BCP-006 series of format mappings. For details of the current set of mappings see the list of BCPs on the main NMOS page.",
+      "repository": "AMWA-TV/bcp-007"
+    },
+    {
+      "title": "Style Guide",
+      "url": "https://specs.amwa.tv/new/bcp-007/latest/Style%20Guide/",
+      "text": "Style Guide Style Guide Style Guide - [Work In Progress] AMWA NMOS Transport Mappings Skip to content Style Guide Be careful with normative and non-normative language. It may be better to put lengthy guidance in a separate implementation guide. Markdown will be linted, so try to keep consistent with what is in this template and what is in other specs. See https://github.com/AMWA-TV/nmos-lint-scripts for details.",
+      "repository": "AMWA-TV/bcp-007"
+    },
+    {
+      "title": "example.json",
+      "url": "https://specs.amwa.tv/new/bcp-007/latest/examples/example/",
+      "text": "example.json example.json example.json - [Work In Progress] AMWA NMOS Transport Mappings Skip to content example.json View: Folding Raw Expand all Collapse all",
+      "repository": "AMWA-TV/bcp-007"
+    },
+    {
+      "title": "Examples",
+      "url": "https://specs.amwa.tv/new/bcp-007/latest/examples/",
+      "text": "Examples Examples Examples - [Work In Progress] AMWA NMOS Transport Mappings Skip to content Examples example.json",
+      "repository": "AMWA-TV/bcp-007"
+    },
+    {
+      "title": "README",
+      "url": "https://specs.amwa.tv/new/bcp-007/latest/images/",
+      "text": "README README README - [Work In Progress] AMWA NMOS Transport Mappings Skip to content README This directory is for images used in documentation",
+      "repository": "AMWA-TV/bcp-007"
+    },
+    {
+      "title": "[Work In Progress] AMWA NMOS Transport Mappings",
+      "url": "https://specs.amwa.tv/new/bcp-007/latest/",
+      "text": "[Work In Progress] AMWA NMOS Transport Mappings [Work In Progress] AMWA NMOS Transport Mappings What does the series do? Why does it matter? What are the mappings? Getting started [Work In Progress] AMWA NMOS Transport Mappings - [Work In Progress] AMWA NMOS Transport Mappings Skip to content [Work In Progress] AMWA NMOS Transport Mappings This repository holds the source for this Specification, part of the family of Networked Media Open Specifications from the Advanced Media Workflow Association What does the series do? The BCP-007 series of AMWA Best Common Practices define how to connect Endpoints using AMWA IS-04 and IS-05 for various transports including: Specification of the resources and attributes used for the format. Requirements for the Transport File (such as SDP). Examples. Why does it matter? The individual mapping BCPs ensure consistency between implementations offering NMOS for each stream transport. Bringing these together in the BCP-007 series helps provide consistency between the individual mappings and provides an index of mappings. What are the mappings? See the list of BCPs on the main NMOS page. Getting started There is more information about the NMOS Specifications and their GitHub repos at https://specs.amwa.tv/nmos .",
+      "repository": "AMWA-TV/bcp-007"
+    }
+  ]
+}

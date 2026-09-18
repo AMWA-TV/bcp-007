@@ -1,0 +1,17 @@
+{
+  "amwa_id": "BCP-007",
+  "url": "https://specs.amwa.tv/bcp-007",
+  "name": "Transport Mappings",
+  "status": "Suite",
+  "repo_name": "bcp-007",
+  "alt_repo_name": "nmos-transport-mappings",
+  "repo_url": "https://github.com/AMWA-TV/bcp-007",
+  "default_branch": "main",
+  "show_in_index": false,
+  "intro": {
+    "why_does_it_matter": [
+      "The individual mapping BCPs ensure consistency between implementations offering NMOS for each stream transport.",
+      "Bringing these together in the BCP-007 series helps provide consistency between the individual mappings and provides an index of mappings."
+    ]
+  }
+}
