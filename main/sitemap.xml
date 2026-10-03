@@ -4,12 +4,24 @@
         <loc>https://specs.amwa.tv/new/bcp-007/main/</loc>
       </url>
       <url>
+        <loc>https://specs.amwa.tv/new/bcp-007/main/404/</loc>
+      </url>
+      <url>
+        <loc>https://specs.amwa.tv/new/bcp-007/main/Further%20Info/</loc>
+      </url>
+      <url>
         <loc>https://specs.amwa.tv/new/bcp-007/main/Overview/</loc>
+      </url>
+      <url>
+        <loc>https://specs.amwa.tv/new/bcp-007/main/Style%20Guide/</loc>
       </url>
       <url>
         <loc>https://specs.amwa.tv/new/bcp-007/main/examples/</loc>
       </url>
       <url>
         <loc>https://specs.amwa.tv/new/bcp-007/main/examples/example/</loc>
+      </url>
+      <url>
+        <loc>https://specs.amwa.tv/new/bcp-007/main/images/</loc>
       </url>
 </urlset>
