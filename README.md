@@ -22,10 +22,18 @@ This repository holds the source for this Specification, part of the family of [
 
 ### What are the mappings?
 
-- See the [list of BCPs](https://specs.amwa.tv/nmos/#nmos-best-common-practices-bcp) on the main NMOS page.
+- [BCP-007-01: NMOS With NDI](https://specs.amwa.tv/bcp-007-01)
+- [BCP-007-02: NMOS Support for IPMX/USB](https://specs.amwa.tv/bcp-007-02)
+- [BCP-007-03: NMOS Support for MXL](https://specs.amwa.tv/bcp-007-03)
 
 <!-- INTRO-END -->
 
 ## Getting started
+
+Choose the mapping for the transport being integrated:
+
+- [BCP-007-01](https://specs.amwa.tv/bcp-007-01) for NDI
+- [BCP-007-02](https://specs.amwa.tv/bcp-007-02) for IPMX/USB
+- [BCP-007-03](https://specs.amwa.tv/bcp-007-03) for MXL
 
 There is more information about the NMOS Specifications and their GitHub repos at <https://specs.amwa.tv/nmos>.
