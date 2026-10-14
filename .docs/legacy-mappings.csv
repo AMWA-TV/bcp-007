@@ -1,0 +1,17 @@
+legacy_url,legacy_status,target_url,target_status_current,mapping_class,legacy_content_type,legacy_location,target_content_type,target_effective_url
+https://specs.amwa.tv/bcp-007/,200,https://specs.amwa.tv/bcp-007/,200,expected-tree-not-currently-published,text/html,,text/html,https://specs.amwa.tv/bcp-007/
+https://specs.amwa.tv/bcp-007/assets/css/style.css?v=,200,,,no-target-rule,text/css,,,
+https://specs.amwa.tv/bcp-007/assets/images/NMOS-logo.png,200,,,no-target-rule,image/png,,,
+https://specs.amwa.tv/bcp-007/assets/images/from-AMWA-logo.png,200,,,no-target-rule,image/png,,,
+https://specs.amwa.tv/bcp-007/releases/,200,https://specs.amwa.tv/bcp-007/,200,expected-tree-not-currently-published,text/html,,text/html,https://specs.amwa.tv/bcp-007/
+https://specs.amwa.tv/bcp-007/branches/,200,,,no-target-rule,text/html,,,
+https://specs.amwa.tv/bcp-007/branches/main,200,https://specs.amwa.tv/bcp-007/main/,200,expected-tree-not-currently-published,text/html,/branches/main/,text/html,https://specs.amwa.tv/bcp-007/main/
+https://specs.amwa.tv/bcp-007/branches/main/,200,https://specs.amwa.tv/bcp-007/main/,200,expected-tree-not-currently-published,text/html,,text/html,https://specs.amwa.tv/bcp-007/main/
+https://specs.amwa.tv/bcp-007/branches/main/docs,200,https://specs.amwa.tv/bcp-007/main/,200,expected-tree-not-currently-published,text/html,/branches/main/docs/,text/html,https://specs.amwa.tv/bcp-007/main/
+https://specs.amwa.tv/bcp-007/branches/main/docs/,200,https://specs.amwa.tv/bcp-007/main/,200,expected-tree-not-currently-published,text/html,,text/html,https://specs.amwa.tv/bcp-007/main/
+https://specs.amwa.tv/bcp-007/branches/main/examples,200,https://specs.amwa.tv/bcp-007/main/examples/,200,expected-tree-not-currently-published,text/html,/branches/main/examples/,text/html,https://specs.amwa.tv/bcp-007/main/examples/
+https://specs.amwa.tv/bcp-007/branches/main/examples/,200,https://specs.amwa.tv/bcp-007/main/examples/,200,expected-tree-not-currently-published,text/html,,text/html,https://specs.amwa.tv/bcp-007/main/examples/
+https://specs.amwa.tv/bcp-007/branches/main/docs/Overview.html,200,https://specs.amwa.tv/bcp-007/main/Overview/,200,expected-tree-not-currently-published,text/html,,text/html,https://specs.amwa.tv/bcp-007/main/Overview/
+https://specs.amwa.tv/bcp-007/branches/main/examples/example.html,200,https://specs.amwa.tv/bcp-007/main/examples/example/,200,expected-tree-not-currently-published,text/html,,text/html,https://specs.amwa.tv/bcp-007/main/examples/example/
+https://specs.amwa.tv/bcp-007/branches/main/examples/example.json,200,https://specs.amwa.tv/bcp-007/main/examples/example.json,200,expected-tree-not-currently-published,application/json,,application/json,https://specs.amwa.tv/bcp-007/main/examples/example.json
+https://specs.amwa.tv/bcp-007/branches/main/docs/images/NMOS-logo.png,200,,,no-target-rule,image/png,,,
