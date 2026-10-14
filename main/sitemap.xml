@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
-        <loc>https://specs.amwa.tv/new/bcp-007/main/</loc>
+        <loc>https://specs.amwa.tv/bcp-007/main/main/</loc>
       </url>
       <url>
-        <loc>https://specs.amwa.tv/new/bcp-007/main/404/</loc>
+        <loc>https://specs.amwa.tv/bcp-007/main/main/404/</loc>
       </url>
       <url>
-        <loc>https://specs.amwa.tv/new/bcp-007/main/Further%20Info/</loc>
+        <loc>https://specs.amwa.tv/bcp-007/main/main/Further%20Info/</loc>
       </url>
       <url>
-        <loc>https://specs.amwa.tv/new/bcp-007/main/Overview/</loc>
+        <loc>https://specs.amwa.tv/bcp-007/main/main/Overview/</loc>
       </url>
       <url>
-        <loc>https://specs.amwa.tv/new/bcp-007/main/Style%20Guide/</loc>
+        <loc>https://specs.amwa.tv/bcp-007/main/main/Style%20Guide/</loc>
       </url>
       <url>
-        <loc>https://specs.amwa.tv/new/bcp-007/main/examples/</loc>
+        <loc>https://specs.amwa.tv/bcp-007/main/main/examples/</loc>
       </url>
       <url>
-        <loc>https://specs.amwa.tv/new/bcp-007/main/examples/example/</loc>
+        <loc>https://specs.amwa.tv/bcp-007/main/main/examples/example/</loc>
       </url>
       <url>
-        <loc>https://specs.amwa.tv/new/bcp-007/main/images/</loc>
+        <loc>https://specs.amwa.tv/bcp-007/main/main/images/</loc>
       </url>
 </urlset>
