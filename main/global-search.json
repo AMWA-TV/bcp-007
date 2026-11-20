@@ -3,12 +3,6 @@
   "repository": "AMWA-TV/bcp-007",
   "documents": [
     {
-      "title": "Page not found",
-      "url": "https://specs.amwa.tv/bcp-007/latest/404/",
-      "text": "Page not found Page not found Page not found - [Work In Progress] AMWA NMOS Transport Mappings Skip to content Page not found The page you requested could not be found. Return to the documentation home",
-      "repository": "AMWA-TV/bcp-007"
-    },
-    {
       "title": "Further Information",
       "url": "https://specs.amwa.tv/bcp-007/latest/Further%20Info/",
       "text": "Further Information Further Information Further Information - [Work In Progress] AMWA NMOS Transport Mappings Skip to content Further Information This file is here for testing automation. Look at the main NMOS page for more information on NMOS!",
